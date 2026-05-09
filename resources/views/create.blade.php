@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layouts.layout')
  
 @section('title') Create Post @endsection
  
